@@ -8,6 +8,7 @@ This repository contains few basics of Data Science which includes the librarire
 
 ## Few mini Projects
 
-#### Mapping Datas on Line plot and scatter plot
-#### On Projecting the World gdp on graph plot
+1. On Projecting the World gdp on graph plot
+
+2. Mapping Datas on Line plot and scatter plot
 
